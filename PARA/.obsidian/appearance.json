@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "color-extend",
+    "extended-colorschemes"
+  ],
+  "translucency": true,
+  "showViewHeader": true,
+  "theme": "moonstone"
+}

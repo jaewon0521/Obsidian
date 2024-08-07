@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "c95903a75bcc8776",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d76b473630c38ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d42221131403c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3055d20db9f26bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "29c733d198e2ddac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7739b05d098a9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c5bdf28db84098f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a81f0886aaee60a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd6c97b50b97d097",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "db77f2a11eabab64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca46dc4e813143e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f6e80ce39e42a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99e1548a4b520bb",
+        "type": "tabs",
+        "dimension": 51.31375579598146,
+        "children": [
+          {
+            "id": "45423c7269487627",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fcbad77ef503c20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d98e90d1f14e142a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bc2a88aeb02e5d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md"
+              }
+            }
+          },
+          {
+            "id": "470bc3babbd049b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "aaca16571c11b2e9",
+        "type": "tabs",
+        "dimension": 48.68624420401855,
+        "children": [
+          {
+            "id": "42ec9e2bb8992e7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7f375edb785cc69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "85d42221131403c1",
+  "lastOpenFiles": [
+    "3. Resource/React/React Event System.md",
+    "3. Resource/React",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 확장하기 좁히기.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 조합.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/원시 타입.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/고급 타입.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Exhaustiveness Checking.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Duck Typing.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Enum.md",
+    "4. Archive/ChekBox.md",
+    "3. Resource/Resource Strategy.md",
+    "3. Resource/Next.Js Example/Summery.md",
+    "PARA System/Readme.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/객체 타입.md",
+    "Image Store/next-js-folder-structure.png",
+    "Resource/Typescript/우아한 타입스크립트 with 리액트/Duck Typing.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트",
+    "3. Resource/Typescript",
+    "3. Resource/Next.Js Example",
+    "3. Resource",
+    "1. Project/Project Strategy.md",
+    "1. Project",
+    "4. Archive/Archive Strategy.md",
+    "4. Archive",
+    "2. Area/Compuer Science/CompileTime, RunTime.md",
+    "2. Area/Compuer Science",
+    "2. Area/Area Strategy.md",
+    "2. Area",
+    "Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
+    "Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
+    "Resource/Typescript/우아한 타입스크립트 with 리액트",
+    "Area/Compuer Science/CompileTime, RunTime.md",
+    "Resource/Typescript/우아한 타입스크립트 with 리액트/Data Type.md",
+    "Area/Area Strategy.md",
+    "Image Store/next-js-folder-structure.avif"
+  ]
+}
