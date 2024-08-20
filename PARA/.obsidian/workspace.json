@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
+                "file": "4. Archive/API Builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
+                "file": "4. Archive/API Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md"
+                "file": "4. Archive/API Builder.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
+                "file": "4. Archive/API Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
+                "file": "4. Archive/API Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,12 @@
   },
   "active": "85d42221131403c1",
   "lastOpenFiles": [
-    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
+    "4. Archive/Archive Strategy.md",
+    "4. Archive/API Builder.md",
+    "4. Archive/ChekBox.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/원시 타입.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
     "2. Area/Compuer Science/CompileTime, RunTime.md",
     "2. Area/Area Strategy.md",
@@ -221,13 +225,11 @@
     "3. Resource/React/React Event System.md",
     "3. Resource/React",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 조합.md",
-    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/원시 타입.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/고급 타입.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Exhaustiveness Checking.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Duck Typing.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Enum.md",
-    "4. Archive/ChekBox.md",
     "3. Resource/Resource Strategy.md",
     "3. Resource/Next.Js Example/Summery.md",
     "PARA System/Readme.md",
@@ -240,14 +242,12 @@
     "3. Resource",
     "1. Project/Project Strategy.md",
     "1. Project",
-    "4. Archive/Archive Strategy.md",
     "4. Archive",
     "2. Area/Compuer Science",
     "2. Area",
     "Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
     "Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "Resource/Typescript/우아한 타입스크립트 with 리액트",
-    "Area/Compuer Science/CompileTime, RunTime.md",
     "Image Store/next-js-folder-structure.avif"
   ]
 }
