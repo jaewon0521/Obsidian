@@ -4,7 +4,8 @@
 
 #### 의미
 어떤 타입에 부합하는 변수와 메서드를 가질 경우 해당 타입에 속하는 것으로 간주하는 방식이다.
-`
+
+```java
 JAVA
 
 class Cat {
@@ -20,4 +21,6 @@ public class Main {
 	Arrow cat = new Cat(); // error : incompatible types
 	Cat arrow = new Arrow(); // error incompatible types
 }
+```
+
 `
