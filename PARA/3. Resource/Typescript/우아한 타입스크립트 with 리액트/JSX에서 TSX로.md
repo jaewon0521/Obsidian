@@ -9,10 +9,13 @@ interface ReactElement<P = any, T extemds string | JSXElementConstructor<any> = 
 ```
 
 #### JSX.Element
+```ts
+interface Element extends React.ReactElement<any, any> { }
+```
 
 #### React.ReactNode
 ReactNode는 ReactElement 타입을 포함하고 있어 좀 더 넓은 범위를 갖고 있다.
-리액트의 render 함수가 반환할 수 
+리액트의 render 함수가 반환할 수 있는 모든 형태를 담고 있다고 볼 수 있다.
 ```ts
 type ReactText = string | number;
 type ReactChild = ReactElement | ReactText;
