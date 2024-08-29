@@ -10,9 +10,26 @@ interface ReactElement<P = any, T extemds string | JSXElementConstructor<any> = 
 props를 ReactElement의 제네릭으로 지정해 주어야 한다면. JSX.Element 대신에 ReactElement를 사용하여 추론 관점에서 더 유용하게 사용할 수 있다.
 
 ```tsx
-const Item = ({ icon } : Props ) => {
-	// icon propㅇ
+interface ItemProps {
+	icon: React.ReactElement<IconProps>;
+} 
+interface IconProps {
+	size: number;
+}
+
+const Icon = ({size} : IconProps) => {
+	return <div>{size}</div>
+}
+
+const Item = ({icon} : ItemProps) => {
+	// icon prop으로 받은 컴포넌트의 props에 접근하면, props의 목록이 추론된다.
 	const iconSize = icon.props.size;
+	
+	return <div>{icon}</div>
+}
+
+const App = () => {
+	return <Item icon={<Icon size={14} />} />
 }
 ```
 
