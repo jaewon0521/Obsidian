@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md"
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,6 +212,7 @@
   "active": "85d42221131403c1",
   "lastOpenFiles": [
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
     "4. Archive/API Builder.md",
@@ -246,7 +247,6 @@
     "4. Archive",
     "2. Area/Compuer Science",
     "2. Area",
-    "Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
     "Resource/Typescript/우아한 타입스크립트 with 리액트",
     "Image Store/next-js-folder-structure.avif"
   ]
