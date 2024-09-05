@@ -33,13 +33,29 @@ React에서는 성능 최적화를 위해 여러 상태 업데이트를 하나�
 import React, { useState } from 'react';  
 function ExpensiveComponent() {   
 // 초기값을 함수로 전달하여 무거운 연산을 처음 한 번만 실행   
-const [value, setValue] = useState(() => {     
-	console.log('Computing initial value...');     
-	return expensiveComputation(); 
-	// 무거운 연산   
+	const [value, setValue] = useState(() => {     
+		console.log('Computing initial value...');     
+		return expensiveComputation(); // 무거운 연산   
 	});    
 	
-	return (     <div>       <p>Value: {value}</p>       <button onClick={() => setValue(value + 1)}>Increment</button>     </div>   ); }  function expensiveComputation() {   // 가상으로 무거운 연산 수행   let sum = 0;   for (let i = 0; i < 1000000000; i++) {     sum += i;   }   return sum; }
+	return (     
+		<div>       
+			<p>Value: {value}</p>
+		    <button onClick={() => setValue(value + 1)}>Increment</button>  
+	    </div>   
+	); 
+}  
+
+function expensiveComputation() {   
+	// 가상으로 무거운 연산 수행   
+	let sum = 0;   
+	
+	for (let i = 0; i < 1000000000; i++) {     
+		sum += i;   
+	}   
+	
+	return sum; 
+}
 ```
 
-- **설명**: 여기서 `expensiveComputation` 함수는 컴포넌트가 처음 렌더링될 때 한 번만 실행됩니다. 만약 함수 없이 초기값을 전달하면 컴포넌트가 렌더링될 때마다 계산이 실행될 수 있습니다.
+여기서 `expensiveComputation` 함수는 컴포넌트가 처음 렌더링될 때 한 번만 실행됩니다. 만약 함수 없이 초기값을 전달하면 컴포넌트가 렌더링될 때마다 계산이 실행될 수 있습니다.
