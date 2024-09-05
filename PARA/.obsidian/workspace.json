@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/React/useState.md",
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Resource/React/useState.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/useState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/React/useState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +204,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85d42221131403c1",
+  "active": "fca46dc4e813143e",
   "lastOpenFiles": [
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/React/useState.md",
-    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "3. Resource/React/React Event System.md",
     "3. Resource/Resource Strategy.md",
