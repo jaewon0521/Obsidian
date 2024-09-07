@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md"
+              }
             }
           },
           {
@@ -167,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,11 +209,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fca46dc4e813143e",
+  "active": "85d42221131403c1",
   "lastOpenFiles": [
+    "3. Resource/React/useState.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
-    "3. Resource/React/useState.md",
+    "3. Resource/React/useEffect.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "3. Resource/React/React Event System.md",
     "3. Resource/Resource Strategy.md",
@@ -232,7 +238,6 @@
     "2. Area/Compuer Science/CompileTime, RunTime.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
     "3. Resource/React",
-    "PARA System/Readme.md",
     "Image Store/next-js-folder-structure.png",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트",
     "3. Resource/Typescript",
