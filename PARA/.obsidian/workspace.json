@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
+                "file": "3. Resource/React/useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md"
+                "file": "3. Resource/React/useEffect.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
+                "file": "3. Resource/React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +211,8 @@
   },
   "active": "85d42221131403c1",
   "lastOpenFiles": [
-    "3. Resource/React/useState.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
+    "3. Resource/React/useState.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/React/useEffect.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
