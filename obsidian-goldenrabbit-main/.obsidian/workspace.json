@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e165f0a44841229f",
+        "id": "fd9e630c388d4726",
         "type": "tabs",
         "children": [
           {
-            "id": "484e6b585256a47a",
+            "id": "19547619af500307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
+                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
+                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
+                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md"
+                "file": "3. Resource/periodic notes/daily/2024-09-13.md"
               }
             }
           }
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +172,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "484e6b585256a47a",
+  "active": "19547619af500307",
   "lastOpenFiles": [
+    "3. Resource/periodic notes/yearly/2024.md",
+    "3. Resource/periodic notes/daily/2024-09-13.md",
+    "3. Resource/periodic notes/monthly/2024-09.md",
+    "3. Resource/periodic notes/weekly/2024-W37.md",
+    "3. Resource/periodic notes/daily/2023-12-26.md",
+    "3. Resource/periodic notes/daily/2023-12-28.md",
+    "3. Resource/periodic notes/daily/2023-12-31.md",
+    "3. Resource/periodic notes/weekly/2024-W14.md",
+    "3. Resource/periodic notes/monthly/2024-04.md",
+    "3. Resource/periodic notes/monthly/2023-12.md",
+    "3. Resource/periodic notes/weekly/2023-W52.md",
+    "3. Resource/periodic notes/daily/2023-12-24.md",
+    "3. Resource/periodic notes/daily/2023-12-25.md",
+    "3. Resource/periodic notes/daily/2023-12-27.md",
+    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
+    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 3. 기본 마크다운 문법.md",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 4. 옵시디언 기본 세팅.md",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 6. 커뮤니티 플러그인.md",
     "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
     "Books/예전 멋있는 개발.md",
     "4. Archive/attachments/smartconfig.png",
@@ -186,25 +204,6 @@
     "Drawing 2024-09-13 17.02.42.excalidraw.md",
     "1. Indexes.md",
     "0. Slip-box/좋은 주석 작성 방법.md",
-    "0. Slip-box/좋은 테스트는 실제 상황이랑 근접한 테스트다.md",
-    "0. Slip-box/지식 노동에서는 아웃풋이 인풋에 비례하지 않는다.md",
-    "0. Slip-box/지식 노동의 생산성은 부지런과는 다르다.md",
-    "0. Slip-box/지식 노동자가 꾸준히 해야할 것.md",
-    "0. Slip-box/코드베이스와 정보의 관리.md",
-    "0. Slip-box/통제가 자유를 만든다.md",
-    "0. Slip-box/팔리는 조언이 효과적인 조언은 아니다.md",
-    "0. Slip-box/Capture.md",
-    "0. Slip-box/If it ain't broke, don't fix it.md",
-    "0. Slip-box/JIT 학습법.md",
-    "0. Slip-box/PARA.md",
-    "0. Slip-box/꾸준함을 강조하는 방법들을 좋아하지 않는다.md",
-    "0. Slip-box/내가 접하는 것의 출처를 알아야 한다.md",
-    "0. Slip-box/노트 조회 방법론.md",
-    "0. Slip-box/계획을 잘 세우는 대가로 받은 걱정과 불안.md",
-    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
-    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
-    "2. Area/Health.md",
-    "3. Resource/periodic notes/yearly/2024.md",
     "3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/attachments/vault open.png",
     "4. Archive/attachments/reading icon.png",
