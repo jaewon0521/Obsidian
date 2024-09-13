@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md"
+                "file": "3. Resource/periodic notes/daily/2024-04-03.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,11 @@
   "lastOpenFiles": [
     "3. Resource/periodic notes/yearly/2024.md",
     "3. Resource/periodic notes/daily/2024-09-13.md",
+    "3. Resource/periodic notes/daily/2024-04-03.md",
+    "PARA 실습^d.md",
+    "0. Slip-box/PARA.md",
     "3. Resource/periodic notes/monthly/2024-09.md",
+    "Books/지금 당장 실천하는 서비스 디자인 씽킹.md",
     "3. Resource/periodic notes/weekly/2024-W37.md",
     "3. Resource/periodic notes/daily/2023-12-26.md",
     "3. Resource/periodic notes/daily/2023-12-28.md",
@@ -200,10 +205,6 @@
     "4. Archive/attachments/golden rabbit logo.png",
     "4. Archive/attachments/trustvault.png",
     "무제 파일.md",
-    "Daily Log - 2024-09-13.md",
-    "Drawing 2024-09-13 17.02.42.excalidraw.md",
-    "1. Indexes.md",
-    "0. Slip-box/좋은 주석 작성 방법.md",
     "3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/attachments/vault open.png",
     "4. Archive/attachments/reading icon.png",
