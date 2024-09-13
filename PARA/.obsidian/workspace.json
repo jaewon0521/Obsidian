@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7d76b473630c38ec",
+        "id": "1f49a082e1754c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "85d42221131403c1",
+            "id": "2c3f221ec82fd98c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/React/useEffect.md",
+                "file": "4. Archive/Archive Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/useEffect.md",
+                "file": "4. Archive/Archive Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/React/useEffect.md"
+                "file": "4. Archive/Archive Strategy.md"
               }
             }
           },
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/useEffect.md",
+                "file": "4. Archive/Archive Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/React/useEffect.md",
+                "file": "4. Archive/Archive Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,15 +210,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85d42221131403c1",
+  "active": "2c3f221ec82fd98c",
   "lastOpenFiles": [
+    "4. Archive/attachments/next-js-folder-structure.png",
+    "3. Resource/Resource Strategy.md",
+    "3. Resource/Next.Js Example/Summery.md",
+    "PARA System/Readme.md",
+    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+    "4. Archive/attachments",
+    "3. Resource/React/useEffect.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useState.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
-    "3. Resource/React/useEffect.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "3. Resource/React/React Event System.md",
-    "3. Resource/Resource Strategy.md",
     "4. Archive/Archive Strategy.md",
     "2. Area/Area Strategy.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
@@ -227,18 +233,13 @@
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Enum.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 조합.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
-    "3. Resource/Next.Js Example/Summery.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Duck Typing.md",
-    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 확장하기 좁히기.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/원시 타입.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/고급 타입.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/객체 타입.md",
     "4. Archive/ChekBox.md",
-    "2. Area/Compuer Science/CompileTime, RunTime.md",
-    "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입 활용.md",
     "3. Resource/React",
-    "Image Store/next-js-folder-structure.png",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트",
     "3. Resource/Typescript",
     "3. Resource/Next.Js Example",
@@ -247,7 +248,6 @@
     "4. Archive",
     "2. Area/Compuer Science",
     "2. Area",
-    "Resource/Typescript/우아한 타입스크립트 with 리액트",
     "Image Store/next-js-folder-structure.avif"
   ]
 }

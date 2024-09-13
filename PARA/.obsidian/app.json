@@ -1,5 +1,6 @@
 {
   "showInlineTitle": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "4. Archive/attachments"
 }
