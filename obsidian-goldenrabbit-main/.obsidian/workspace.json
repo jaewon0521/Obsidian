@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d133d337db1b83a",
+            "id": "484e6b585256a47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Slip-box/좋은 주석 작성 방법.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6a7e7ebcefdfb75",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0414ce28bf411ffa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cda58b3775e643dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "927af663a553ada5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -127,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일.md"
+              }
             }
           }
         ]
@@ -202,8 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "927af663a553ada5",
+  "active": "a13fd9f0cf79db51",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Daily Log - 2024-09-13.md",
+    "Drawing 2024-09-13 17.02.42.excalidraw.md",
+    "1. Indexes.md",
     "0. Slip-box/좋은 주석 작성 방법.md",
     "0. Slip-box/좋은 테스트는 실제 상황이랑 근접한 테스트다.md",
     "0. Slip-box/지식 노동에서는 아웃풋이 인풋에 비례하지 않는다.md",
@@ -226,10 +201,6 @@
     "3. Resource/periodic notes/yearly/2024.md",
     "3. Resource/periodic notes/weekly/2023-W52.md",
     "3. Resource/periodic notes/weekly/2024-W14.md",
-    "3. Resource/periodic notes/monthly/2023-12.md",
-    "3. Resource/periodic notes/monthly/2024-04.md",
-    "3. Resource/periodic notes/daily/2024-04-03.md",
-    "3. Resource/periodic notes/daily/2023-12-31.md",
     "3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/attachments/vault open.png",
     "4. Archive/attachments/trustvault.png",
