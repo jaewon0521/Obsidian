@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md"
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md"
               }
             }
           }
@@ -215,10 +215,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df25f0381c859922",
+  "active": "6b8ace15b6fbf510",
   "lastOpenFiles": [
-    "4. Archive/attachments/code download.png",
     "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+    "4. Archive/attachments/code download.png",
     "3. Resource/periodic notes/daily/2024-04-03.md",
     "0. Slip-box/일반적인 정리의 원칙들.md",
     "0. Slip-box/Capture.md",
