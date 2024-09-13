@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "3. Resource/React/useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/Archive Strategy.md"
+                "file": "3. Resource/React/useEffect.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "3. Resource/React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,21 +210,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d98e90d1f14e142a",
+  "active": "2c3f221ec82fd98c",
   "lastOpenFiles": [
+    "3. Resource/React/React Life Cycle.md",
+    "3. Resource/React/useEffect.md",
+    "4. Archive/Archive Strategy.md",
     "4. Archive/attachments/next-js-folder-structure.png",
     "3. Resource/Resource Strategy.md",
     "3. Resource/Next.Js Example/Summery.md",
     "PARA System/Readme.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
     "4. Archive/attachments",
-    "3. Resource/React/useEffect.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useState.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "3. Resource/React/React Event System.md",
-    "4. Archive/Archive Strategy.md",
     "2. Area/Area Strategy.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/비동기 호출.md",
