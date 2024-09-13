@@ -1,7 +1,9 @@
-useEffect는 기본적으로 Mount이후에 실행 된다.
+리액트 컴포넌트가 렌더링 될 때마다 특정 작업을 수행할 수 있도록 하는 Hook이다.
 
 #### 동작 순서
-1. Dom 
-2. **디펜던시 변경 시 실행 (After Dependency Change)**
-3. **언마운트 시 또는 다음 이펙트 실행 전 정리 (Cleanup Before Next Effect or Unmount)**
+1. **컴포넌트가 처음 렌더링되고 DOM이 준비된 후 `useEffect` 콜백이 실행됩니다.**
+2. **디펜던시 변경 시 실행**
+3. **언마운트 시 또는 다음 이펙트 실행 전 정리**
+
+
 
