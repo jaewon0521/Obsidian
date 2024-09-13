@@ -4,23 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9e630c388d4726",
+        "id": "21b62d5e6632ed37",
         "type": "tabs",
         "children": [
           {
-            "id": "19547619af500307",
+            "id": "6b8ace15b6fbf510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "ed970a08b9cdc39d"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "602df137d5252f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df25f0381c859922",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "ed970a08b9cdc39d"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-04-03.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +189,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-04-03.md"
+                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,11 +215,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19547619af500307",
+  "active": "df25f0381c859922",
   "lastOpenFiles": [
+    "4. Archive/attachments/code download.png",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
+    "3. Resource/periodic notes/daily/2024-04-03.md",
+    "0. Slip-box/일반적인 정리의 원칙들.md",
+    "0. Slip-box/Capture.md",
     "3. Resource/periodic notes/yearly/2024.md",
     "3. Resource/periodic notes/daily/2024-09-13.md",
-    "3. Resource/periodic notes/daily/2024-04-03.md",
     "PARA 실습^d.md",
     "0. Slip-box/PARA.md",
     "3. Resource/periodic notes/monthly/2024-09.md",
@@ -197,14 +243,9 @@
     "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
     "1. Projects/세컨드 브레인은 옵시디언/Ch 3. 기본 마크다운 문법.md",
     "1. Projects/세컨드 브레인은 옵시디언/Ch 4. 옵시디언 기본 세팅.md",
-    "1. Projects/세컨드 브레인은 옵시디언/Ch 6. 커뮤니티 플러그인.md",
-    "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
-    "Books/예전 멋있는 개발.md",
     "4. Archive/attachments/smartconfig.png",
-    "4. Archive/attachments/code download.png",
     "4. Archive/attachments/golden rabbit logo.png",
     "4. Archive/attachments/trustvault.png",
-    "무제 파일.md",
     "3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/attachments/vault open.png",
     "4. Archive/attachments/reading icon.png",
