@@ -212,8 +212,9 @@
   },
   "active": "2c3f221ec82fd98c",
   "lastOpenFiles": [
-    "3. Resource/React/React Life Cycle.md",
+    "3. Resource/React/useState.md",
     "3. Resource/React/useEffect.md",
+    "3. Resource/React/React Life Cycle.md",
     "4. Archive/Archive Strategy.md",
     "4. Archive/attachments/next-js-folder-structure.png",
     "3. Resource/Resource Strategy.md",
@@ -222,7 +223,6 @@
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
     "4. Archive/attachments",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Hook.md",
-    "3. Resource/React/useState.md",
     "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/Typescript/우아한 타입스크립트 with 리액트/Index.md",
     "3. Resource/React/React Event System.md",
