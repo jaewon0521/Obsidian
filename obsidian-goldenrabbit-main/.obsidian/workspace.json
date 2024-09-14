@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md",
+                "file": "3. Resource/periodic notes/daily/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/periodic notes/daily/2024-09-13.md"
+                "file": "3. Resource/periodic notes/daily/Test.md"
               }
             }
           }
@@ -172,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b8ace15b6fbf510",
+  "active": "a13fd9f0cf79db51",
   "lastOpenFiles": [
     "Daily Log - 2024-09-13.md",
     "1. Indexes.md",
@@ -197,7 +197,7 @@
     "0. Slip-box/일반적인 정리의 원칙들.md",
     "0. Slip-box/Capture.md",
     "3. Resource/periodic notes/yearly/2024.md",
-    "3. Resource/periodic notes/daily/2024-09-13.md",
+    "3. Resource/periodic notes/daily/Test.md",
     "PARA 실습^d.md",
     "0. Slip-box/PARA.md",
     "3. Resource/periodic notes/monthly/2024-09.md",
