@@ -13,57 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "ed970a08b9cdc39d"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "602df137d5252f47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df25f0381c859922",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "ed970a08b9cdc39d"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md"
+                "file": "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md"
               }
             }
           }
@@ -217,6 +174,15 @@
   },
   "active": "6b8ace15b6fbf510",
   "lastOpenFiles": [
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 20. 데이터뷰.md",
+    "3. Resource/references/전략의 거장으로부터 배우는 좋은 전략 나쁜 전략.md",
+    "3. Resource/references/메모의 기술 - 메모장, 메모의 기적, 분류, 생각 노트 활용하기.md",
+    "3. Resource/references/한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모법.md",
+    "3. Resource/references/Obsidian wikipedia.pdf",
+    "3. Resource/references/How to Take Smart Notes.md",
+    "3. Resource/references/정리하는 뇌.md",
+    "2. Area/Health.md",
+    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
     "1. Projects/세컨드 브레인은 옵시디언/Ch 7. 노트에 링크로 정보 연결.md",
     "4. Archive/attachments/code download.png",
     "3. Resource/periodic notes/daily/2024-04-03.md",
@@ -236,17 +202,9 @@
     "3. Resource/periodic notes/monthly/2024-04.md",
     "3. Resource/periodic notes/monthly/2023-12.md",
     "3. Resource/periodic notes/weekly/2023-W52.md",
-    "3. Resource/periodic notes/daily/2023-12-24.md",
-    "3. Resource/periodic notes/daily/2023-12-25.md",
-    "3. Resource/periodic notes/daily/2023-12-27.md",
-    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/PARA 방법.md",
-    "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
-    "1. Projects/세컨드 브레인은 옵시디언/Ch 3. 기본 마크다운 문법.md",
-    "1. Projects/세컨드 브레인은 옵시디언/Ch 4. 옵시디언 기본 세팅.md",
     "4. Archive/attachments/smartconfig.png",
     "4. Archive/attachments/golden rabbit logo.png",
     "4. Archive/attachments/trustvault.png",
-    "3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/attachments/vault open.png",
     "4. Archive/attachments/reading icon.png",
     "4. Archive/attachments/obsipexels.png",
