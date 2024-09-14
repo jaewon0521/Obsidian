@@ -11,6 +11,16 @@
 함수 컴포넌트에서 상태를 관리하기 위해 활용한다.
 
 #### [[useEffect]]
+함수 컴포넌트에서 라이프 사이클 메서드를 사용하기 위해 활용한다.
 
-useLayoutEffect
+#### useLayoutEffect
+- **useEffect**는 완전히 마운트된 상황 브라우저 DOM에서의 렌더링 작업(paint)이 완료된 후에 실행되는 반면
+- **useLayoutEffect**는 컴포넌트가 렌더링되고 브라우저 DOM에서의 렌더링이 실행되기 전에 호출되며 동기적으로만 실행한다.
+- 복잡한 처리, API 호출 등 대부분의 작업은 *useEffect*훅을 사용할 것을 권장한다.
+- 간단한 작업이면서 다시 렌더링으로 인한 화면이 깜빡임을 사용자에게 보여주고 싶지 않을 때는 *useLayoutEffect*훅을 사용 한다.
+
+#### useMemo
+
+#### useCallback
+
 
