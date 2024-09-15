@@ -27,4 +27,3 @@
 ## List
 - [[Summery | Next Js Example]]
 - [[Index | 우아한 타입스크립트 with 리액트]]
-- 

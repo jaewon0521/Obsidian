@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+                "file": "3. Resource/React/React Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+                "file": "3. Resource/React/React Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md"
+                "file": "3. Resource/React/React Life Cycle.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+                "file": "3. Resource/React/React Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+                "file": "3. Resource/React/React Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,12 +212,15 @@
   },
   "active": "2c3f221ec82fd98c",
   "lastOpenFiles": [
-    "4. Archive/우아한 타입스크립트 with 리액트/타입 확장하기 좁히기.md",
+    "4. Archive/attachments/react-life-cycle.png",
+    "3. Resource/React/useState 비동기 처리 방식.md",
+    "3. Resource/Resource Strategy.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Index.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/타입 확장하기 좁히기.md",
     "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Exhaustiveness Checking.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Enum.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/타입스크립트 컴파일.md",
     "4. Archive/우아한 타입스크립트 with 리액트/원시 타입.md",
     "4. Archive/우아한 타입스크립트 with 리액트/느낀점.md",
     "정리.md",
@@ -230,16 +233,13 @@
     "4. Archive/우아한 타입스크립트 with 리액트/Duck Typing.md",
     "3. Resource/React/useEffect.md",
     "3. Resource/React/useState.md",
-    "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/React/React Event System.md",
     "3. Resource/React/React Life Cycle.md",
     "4. Archive/attachments/next-js-folder-structure.png",
-    "3. Resource/Resource Strategy.md",
     "3. Resource/Next.Js Example/Summery.md",
     "PARA System/Readme.md",
     "4. Archive/attachments",
     "2. Area/Area Strategy.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
     "3. Resource/React",
     "4. Archive/우아한 타입스크립트 with 리액트",
     "3. Resource/Typescript",
