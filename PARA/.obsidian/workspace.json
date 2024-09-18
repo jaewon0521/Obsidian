@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/새로운 노트.md",
+                "file": "1. Project/세컨드 브레인은 옵시디언.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/새로운 노트.md",
+                "file": "1. Project/세컨드 브레인은 옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/새로운 노트.md"
+                "file": "1. Project/세컨드 브레인은 옵시디언.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/새로운 노트.md",
+                "file": "1. Project/세컨드 브레인은 옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/새로운 노트.md",
+                "file": "1. Project/세컨드 브레인은 옵시디언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +212,12 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "4. Archive/Templates/독서 노트 템플릿.md",
+    "1. Project/세컨드 브레인은 옵시디언.md",
     "1. Project/Project Strategy.md",
-    "1. Project/새로운 노트.md",
-    "4. Archive/Templates/독서 노트 템플릿.md",
-    "4. Archive/Templates/독서 노트 템플릿.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/고급 타입.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
+    "4. Archive/Attachments/next-js-folder-structure.png",
     "4. Archive/무제 파일.md",
     "4. Archive/Templates",
     "3. Resource/React/React Life Cycle.md",
@@ -233,14 +235,12 @@
     "정리.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useRef.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
     "4. Archive/Archive Strategy.md",
     "4. Archive/API Builder.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Duck Typing.md",
     "3. Resource/React/useEffect.md",
     "3. Resource/React/useState.md",
     "3. Resource/React/React Event System.md",
-    "4. Archive/Attachments/next-js-folder-structure.png",
     "4. Archive/Attachments",
     "3. Resource/React",
     "4. Archive/우아한 타입스크립트 with 리액트",
