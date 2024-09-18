@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f49a082e1754c1e",
+        "id": "040ea7eb161bdc6f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3f221ec82fd98c",
+            "id": "676e820ae28f25b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/React/React Life Cycle.md",
+                "file": "1. Project/새로운 노트.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/React Life Cycle.md",
+                "file": "1. Project/새로운 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/React/React Life Cycle.md"
+                "file": "1. Project/새로운 노트.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/React/React Life Cycle.md",
+                "file": "1. Project/새로운 노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/React/React Life Cycle.md",
+                "file": "1. Project/새로운 노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +210,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2c3f221ec82fd98c",
+  "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/Project Strategy.md",
+    "1. Project/새로운 노트.md",
+    "4. Archive/Templates/독서 노트 템플릿.md",
+    "4. Archive/Templates/독서 노트 템플릿.md",
+    "4. Archive/무제 파일.md",
+    "4. Archive/Templates",
     "3. Resource/React/React Life Cycle.md",
-    "4. Archive/attachments/react-life-cycle.png",
+    "4. Archive/Attachments/react-life-cycle.png",
     "3. Resource/React/useState 비동기 처리 방식.md",
     "3. Resource/Resource Strategy.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Index.md",
@@ -225,7 +231,6 @@
     "4. Archive/우아한 타입스크립트 with 리액트/원시 타입.md",
     "4. Archive/우아한 타입스크립트 with 리액트/느낀점.md",
     "정리.md",
-    "1. Project/Project Strategy.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Hook.md",
     "3. Resource/React/useRef.md",
     "4. Archive/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
@@ -235,11 +240,8 @@
     "3. Resource/React/useEffect.md",
     "3. Resource/React/useState.md",
     "3. Resource/React/React Event System.md",
-    "4. Archive/attachments/next-js-folder-structure.png",
-    "3. Resource/Next.Js Example/Summery.md",
-    "PARA System/Readme.md",
-    "4. Archive/attachments",
-    "2. Area/Area Strategy.md",
+    "4. Archive/Attachments/next-js-folder-structure.png",
+    "4. Archive/Attachments",
     "3. Resource/React",
     "4. Archive/우아한 타입스크립트 with 리액트",
     "3. Resource/Typescript",
@@ -248,7 +250,6 @@
     "1. Project",
     "4. Archive",
     "2. Area/Compuer Science",
-    "2. Area",
     "Image Store/next-js-folder-structure.avif"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md",
+                "file": "3. Resource/templates/독서 노트 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md",
+                "file": "3. Resource/templates/독서 노트 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md",
+                "file": "3. Resource/templates/독서 노트 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md"
+                "file": "3. Resource/templates/독서 노트 템플릿.md"
               }
             }
           }
@@ -174,6 +174,12 @@
   },
   "active": "6b8ace15b6fbf510",
   "lastOpenFiles": [
+    "3. Resource/templates/독서 노트 템플릿 1.md",
+    "3. Resource/templates/독서 노트 템플릿.md",
+    "3. Resource/templates/주간 노트 템플릿.md",
+    "3. Resource/templates/일간 노트 템플릿.md",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 11. 검색.md",
+    "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md",
     "3. Resource/periodic notes/daily/Test.md",
     "Daily Log - 2024-09-13.md",
     "1. Indexes.md",
@@ -181,7 +187,6 @@
     "Books/예전 멋있는 개발.md",
     "Books/스프링 부트 3 백엔드 개발자 되기 자바 편.md",
     "Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
-    "1. Projects/세컨드 브레인은 옵시디언/Ch 9. 고급 마크다운.md",
     "1. Projects/세컨드 브레인은 옵시디언/노트 모음/첫 번째 제목 마크다운을 빨간색으로.md",
     "1. Projects/세컨드 브레인은 옵시디언/Ch 20. 데이터뷰.md",
     "3. Resource/references/전략의 거장으로부터 배우는 좋은 전략 나쁜 전략.md",
@@ -197,11 +202,6 @@
     "3. Resource/periodic notes/daily/2024-04-03.md",
     "0. Slip-box/일반적인 정리의 원칙들.md",
     "0. Slip-box/Capture.md",
-    "3. Resource/periodic notes/yearly/2024.md",
-    "PARA 실습^d.md",
-    "0. Slip-box/PARA.md",
-    "3. Resource/periodic notes/monthly/2024-09.md",
-    "Books/지금 당장 실천하는 서비스 디자인 씽킹.md",
     "4. Archive/attachments/smartconfig.png",
     "4. Archive/attachments/golden rabbit logo.png",
     "4. Archive/attachments/trustvault.png",
