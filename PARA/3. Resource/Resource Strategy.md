@@ -26,4 +26,4 @@
 
 ## List
 - [[Summery | Next Js Example]]
-- [[Index | 우아한 타입스크립트 with 리액트]]
+- [[4. Archive/우아한 타입스크립트 with 리액트/Index| 우아한 타입스크립트 with 리액트]]
