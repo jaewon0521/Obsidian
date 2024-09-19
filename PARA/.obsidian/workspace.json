@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md"
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,27 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
-    "1. Project/Project Strategy.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/정보가 어떤 맥락에서 나왔고 어떻게 필요한지 생각하는 연습.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/전문가를 이기는 순간.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/일반적인 정리의 원칙들.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/실행 횟수가 중요하다.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/몰입을 위해선 적절한 난이도가 주어져야 한다.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/노트 조회 방법론.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/노트 정리 방법론.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/꾸준함을 강조하는 방법들을 좋아하지 않는다.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/계획을 잘 세우는 대가로 받은 걱정과 불안.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/smartconfig.png",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/trustvault.png",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/vault open.png",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모법.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/우울할 땐 뇌과학.md",
+    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/시대예보 핵개인의 시대.md",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/Index.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
+    "4. Archive/우아한 타입스크립트 with 리액트/느낀점.md",
+    "1. Project/Project Strategy.md",
     "4. Archive/Archive Strategy.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리",
     "4. Archive/CallOut.md",
@@ -223,32 +242,13 @@
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/개발자로 살아남기.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/이름없는 책.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/요즘 우아한 개발.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/스프링 부트 3 백엔드 개발자 되기 자바 편.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/지금 당장 실천하는 서비스 디자인 씽킹.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/나의 두려움을 여기 두고 간다.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/나중에 실천하고 싶은 서비스 디자인 씽킹.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/vault open.png",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/trustvault.png",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/smartconfig.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/reading icon.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/obsipexels.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/golden rabbit logo.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/code download.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/templates/주간 노트 템플릿.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/templates/일간 노트 템플릿.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/templates/독서 노트 템플릿.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/templates",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모법.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/티아고 포르테 트위터.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/정리하는 뇌.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/전략의 거장으로부터 배우는 좋은 전략 나쁜 전략.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/우울할 땐 뇌과학.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/시대예보 핵개인의 시대.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/사장님 소자본 창업 성공 어렵지 않아요.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/메모의 기술 - 메모장, 메모의 기적, 분류, 생각 노트 활용하기.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/Obsidian wikipedia.pdf",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/How to Take Smart Notes.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/yearly",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/weekly",
