@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/Archive Strategy.md"
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/Archive Strategy.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,6 +212,10 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/Project Strategy.md",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+    "4. Archive/Archive Strategy.md",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리",
     "4. Archive/CallOut.md",
     "4. Archive/ChekBox.md",
     "4. Archive/세컨드 브레인은 옵시디언/Index.md",
@@ -246,15 +250,11 @@
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/How to Take Smart Notes.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/yearly/2024.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/weekly/2024-W37.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/weekly/2024-W14.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/yearly",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/weekly",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/monthly",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/daily",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/1. Projects/세컨드 브레인은 옵시디언/CSS 모음/property-hover.css",
     "4. Archive/Attachments/next-js-folder-structure.png",
     "4. Archive/Attachments/react-life-cycle.png",
     "Image Store/next-js-folder-structure.avif"
