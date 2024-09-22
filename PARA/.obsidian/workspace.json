@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+                "file": "4. Archive/CallOut.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+                "file": "4. Archive/CallOut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md"
+                "file": "4. Archive/CallOut.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+                "file": "4. Archive/CallOut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+                "file": "4. Archive/CallOut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +212,11 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "3. Resource/React/지연 초기화.md",
+    "3. Resource/React/useState.md",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "4. Archive/CallOut.md",
     "4. Archive/Templates/독서 노트 템플릿.md",
-    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/정보가 어떤 맥락에서 나왔고 어떻게 필요한지 생각하는 연습.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/0. Slip-box/전문가를 이기는 순간.md",
@@ -240,8 +242,6 @@
     "4. Archive/ChekBox.md",
     "4. Archive/세컨드 브레인은 옵시디언/Index.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/예전 멋있는 개발.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/개발자로 살아남기.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/이름없는 책.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/reading icon.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/obsipexels.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/golden rabbit logo.png",
