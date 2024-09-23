@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#경영전략",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md"
+                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+                "file": "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,9 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
-    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
+    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편",
@@ -242,7 +243,6 @@
     "4. Archive/우아한 타입스크립트 with 리액트/구조적 타이핑 (Structural Type Systems).md",
     "4. Archive/우아한 타입스크립트 with 리액트/느낀점.md",
     "1. Project/Project Strategy.md",
-    "4. Archive/Archive Strategy.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/reading icon.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/obsipexels.png",
