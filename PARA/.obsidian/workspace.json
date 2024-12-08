@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md"
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,13 +212,14 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+    "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
     "4. Archive/우아한 타입스크립트 with 리액트/객체 타입.md",
     "4. Archive/우아한 타입스크립트 with 리액트/고급 타입.md",
     "3. Resource/Resource Strategy.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
-    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편",
     "1. Project/무제 파일.md",
@@ -242,7 +243,6 @@
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모법.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/우울할 땐 뇌과학.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/시대예보 핵개인의 시대.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/Index.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/reading icon.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/obsipexels.png",
