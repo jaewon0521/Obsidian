@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md"
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,15 +210,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "676e820ae28f25b0",
+  "active": "6e7739b05d098a9b",
   "lastOpenFiles": [
+    "1. Project/무제 폴더",
+    "1. Project/무제 파일.canvas",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
+    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
+    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
+    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
+    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
     "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
     "1. Project/모던 리액트 Deep 다이브/Index.md",
-    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
-    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
-    "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "무제 파일.canvas",
-    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
     "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
     "4. Archive/API Builder.md",
     "4. Archive/Archive Strategy.md",
@@ -226,7 +229,6 @@
     "4. Archive/ChekBox.md",
     "PARA System/Readme.md",
     "1. Project/Project Strategy.md",
-    "1. Project/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
     "1. Project/모던 리액트 Deep 다이브",
     "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
     "4. Archive/우아한 타입스크립트 with 리액트/객체 타입.md",
