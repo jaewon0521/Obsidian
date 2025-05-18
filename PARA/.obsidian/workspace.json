@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md"
+                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,10 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
-    "1. Project/함수형 자바스크립트 입문 2판/Index.md",
+    "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
+    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
     "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+    "1. Project/함수형 자바스크립트 입문 2판/Index.md",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/Index.md",
     "1. Project/모던 리액트 Deep 다이브/Index.md",
     "4. Archive/우아한 타입스크립트 with 리액트/Index.md",
@@ -223,8 +225,6 @@
     "1. Project/함수형 자바스크립트 입문 2판",
     "1. Project/무제 파일.canvas",
     "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
-    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
-    "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
     "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
     "PARA System/Readme.md",
     "1. Project/모던 리액트 Deep 다이브",
