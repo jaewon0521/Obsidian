@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Remix JS Next JS/무제 파일.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Remix JS Next JS/무제 파일.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Remix JS Next JS/무제 파일.md"
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Remix JS Next JS/무제 파일.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Remix JS Next JS/무제 파일.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,16 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
-    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
+    "무제 파일.canvas",
+    "3. Resource/Next.Js Example/Summery.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS",
+    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
+    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
+    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
     "3. Resource/Remix JS Next JS/무제 파일.md",
+    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
     "3. Resource/Remix JS Next JS",
     "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
     "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
@@ -220,22 +228,15 @@
     "4. Archive/ChekBox.md",
     "4. Archive/CallOut.md",
     "4. Archive/세컨드 브레인은 옵시디언/Index.md",
-    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/Index.md",
     "4. Archive/Templates/독서 노트 템플릿.md",
-    "무제 파일.canvas",
     "1. Project/리액트 훅을 활용한 마이크로 상태 관리/리액트 훅을 이용한 마이크로 상태 관리.md",
     "1. Project/함수형 자바스크립트 입문 2판",
     "1. Project/무제 파일.canvas",
-    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/의도적 수련을 위한 4가지 스텝.md",
-    "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편/주차별 미션.md",
     "PARA System/Readme.md",
     "1. Project/모던 리액트 Deep 다이브",
     "4. Archive/우아한 타입스크립트 with 리액트/타입 조합.md",
     "4. Archive/우아한 타입스크립트 with 리액트/객체 타입.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/고급 타입.md",
     "4. Archive/유데미 개발 챌린지 - 프론트엔드 개발 편",
-    "1. Project/무제 파일.md",
-    "3. Resource/React/지연 초기화.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/smartconfig.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/trustvault.png",
     "4. Archive/세컨드 브레인은 옵시디언/Template/4. Archive/attachments/vault open.png",
@@ -248,7 +249,6 @@
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/templates",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references/Obsidian wikipedia.pdf",
     "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/references",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/3. Resource/periodic notes/yearly",
     "4. Archive/Attachments/next-js-folder-structure.png",
     "4. Archive/Attachments/react-life-cycle.png",
     "Image Store/next-js-folder-structure.avif"
