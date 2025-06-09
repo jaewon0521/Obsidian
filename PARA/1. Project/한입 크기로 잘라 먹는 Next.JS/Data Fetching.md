@@ -52,22 +52,23 @@ export default function Page(
 ``` typescript 
 export const getStaticPaths: GetStaticPaths = async () => {
   const res = await fetch(url);
-  const data = await res.json();
+  const datas = await res.json();
 
-  const paths = posts.slice(0, 3).map((post: PostData) => ({
-    params: { id: post.id.toString() },
+  const paths = datas.map((data: Data) => ({
+    params: { id: data.id.toString() },
   }));
 
   return {
-    paths,            // ['/post/1', '/post/2', '/post/3'] 빌드 시 생성
+    paths,            // ['/path/1', '/path/2', '/path/3' , ...] 빌드 시 생성
     fallback: false,  // fallback이 false면 위 경로 외에는 404
   };
 };
 ```
 ##### falback
 
-|fallback 값|의미|
-|---|---|
-|`false`|지정한 경로만 HTML로 생성. 그 외 요청은 404|
-|`true`|지정하지 않은 경로는 **요청 시 생성**, 로딩 UI 필요|
-|`'blocking'`|지정하지 않은 경로도 요청 시 서버에서 생성하고 완성된 HTML을 바로 응답|
+| fallback 값   | 의미                                                           |
+| ------------ | ------------------------------------------------------------ |
+| `false`      | 지정한 경로만 HTML로 생성. 그 외 요청은 404                                |
+| `true`       | 지정하지 않은 경로는 **요청 시 생성**, 로딩 UI 필요 <br>데이터가 없는 UI 페이지를 빠르게 반환 |
+| `'blocking'` | 지정하지 않은 경로도 요청 시 서버에서 생성하고 완성된 HTML을 바로 응답                   |
+|              | 첫 번째는 SSR로 HTML 파일은 Next Server에 생성 후 두 번째 요청 부터 SSG 방식으로 동작 |
