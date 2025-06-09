@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md"
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,13 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
+    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+    "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
+    "1. Project/모던 리액트 Deep 다이브/Index.md",
+    "1. Project/함수형 자바스크립트 입문 2판/Index.md",
+    "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
     "1. Project/Project Strategy.md",
     "3. Resource/API Builder.md",
     "3. Resource/Resource Strategy.md",
@@ -223,13 +230,6 @@
     "3. Resource/React/useEffect.md",
     "3. Resource/React/React Life Cycle.md",
     "3. Resource/React/React Event System.md",
-    "3. Resource/React/지연 초기화.md",
-    "3. Resource/Remix JS Next JS/무제 파일.md",
-    "1. Project/함수형 자바스크립트 입문 2판/함수형 프로그래밍이란.md",
-    "1. Project/모던 리액트 Deep 다이브/렌더링.md",
-    "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
-    "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
-    "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
     "무제 파일.canvas",
     "1. Project/한입 크기로 잘라 먹는 Next.JS",
     "3. Resource/Remix JS Next JS",

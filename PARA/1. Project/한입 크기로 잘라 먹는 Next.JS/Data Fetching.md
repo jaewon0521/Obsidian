@@ -5,6 +5,7 @@
 - 기본적인 사전 렌더링 방식으로 요청이 들어올 때 마다 사전 렌더링을 진행 한다. (SSR)
 - RES 데이터 사이즈가 너무 크거나 서버의 상태가 좋지 않을 경우 Build Time시점에 데이터 페칭을 할 수 있다. `[요청이 오래 걸릴 것 같은 페이지]` (SSG)
 - SSG방식으로 생성된 정적 페이지를 일정 시간을 주기로 다시 생성한다. (ISR)
+- Revalidate요청으로 SSG방식으로 페이지를 생성한다. (On-Demand ISR)
 
 #### SSR
 ``` typescript
@@ -93,4 +94,38 @@ export default function Page(
 	return ...
 }
 
+```
+
+#### On-Demand ISR
+```typescript
+// src/pages/api/revalidate.ts
+import { NextApiRequest, NextApiResponse } from "next";
+
+// API Route revalidate 요청시 해당 hanlder함수가 실행
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse
+) {
+  try {
+    await res.revalidate("/");  // 인덱스 페이지 경로 설정
+    return res.json({ revalidate: true });
+  } catch (err) {
+    res.status(500).send("Revalidation Failed");
+  }
+}
+
+// src/pages/index.tsx
+export const getStaticProps = async () => {
+  const [allBooks, recoBooks] = await Promise.all([
+    fetchBooks(),
+    fetchRandomBooks()
+  ]); // 동시에 병렬 작동
+
+  return {
+    props: {
+      allBooks,
+      recoBooks
+    },
+  };
+};
 ```
