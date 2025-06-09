@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Project Strategy.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Project Strategy.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Project Strategy.md"
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Project Strategy.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Project Strategy.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +204,7 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/Project Strategy.md",
     "3. Resource/API Builder.md",
     "3. Resource/Resource Strategy.md",
     "4. Archive/Archive Strategy.md",
@@ -229,7 +230,6 @@
     "1. Project/모던 리액트 Deep 다이브/리액트 파이버.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - APP.md",
-    "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
     "무제 파일.canvas",
     "1. Project/한입 크기로 잘라 먹는 Next.JS",
     "3. Resource/Remix JS Next JS",
