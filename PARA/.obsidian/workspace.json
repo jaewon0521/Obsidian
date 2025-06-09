@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
+                "file": "PARA System/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
+                "file": "PARA System/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md"
+                "file": "PARA System/Readme.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
+                "file": "PARA System/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
+                "file": "PARA System/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,7 @@
   },
   "active": "676e820ae28f25b0",
   "lastOpenFiles": [
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
     "PARA System/Readme.md",
     "4. Archive/ChekBox.md",
     "4. Archive/CallOut.md",
@@ -230,7 +231,6 @@
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/지금 당장 실천하는 서비스 디자인 씽킹.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/이름없는 책.md",
     "4. Archive/세컨드 브레인은 옵시디언/Template/Books/요즘 우아한 개발.md",
-    "4. Archive/세컨드 브레인은 옵시디언/Template/Books/예전 멋있는 개발.md",
     "무제 파일.canvas",
     "1. Project/한입 크기로 잘라 먹는 Next.JS",
     "3. Resource/Remix JS Next JS",
