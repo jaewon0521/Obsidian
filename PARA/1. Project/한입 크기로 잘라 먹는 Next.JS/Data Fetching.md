@@ -45,3 +45,29 @@ export default function Page(
 }
 
 ```
+
+#### SSG 동적 경로
+/[id] 처럼 경로에 변수가 들어가는 경우에 해당합니다.
+
+``` typescript 
+export const getStaticPaths: GetStaticPaths = async () => {
+  const res = await fetch(url);
+  const data = await res.json();
+
+  const paths = posts.slice(0, 3).map((post: PostData) => ({
+    params: { id: post.id.toString() },
+  }));
+
+  return {
+    paths,            // ['/post/1', '/post/2', '/post/3'] 빌드 시 생성
+    fallback: false,  // fallback이 false면 위 경로 외에는 404
+  };
+};
+```
+##### falback
+
+|fallback 값|의미|
+|---|---|
+|`false`|지정한 경로만 HTML로 생성. 그 외 요청은 404|
+|`true`|지정하지 않은 경로는 **요청 시 생성**, 로딩 UI 필요|
+|`'blocking'`|지정하지 않은 경로도 요청 시 서버에서 생성하고 완성된 HTML을 바로 응답|
