@@ -10,15 +10,15 @@
 #### Route Group
 1. 폴더는 라우팅 구조를 정리할 때 쓰는 폴더지만, URL 경로에는 포함되지 않습니다.
 	1. /(admin)/dashboard -> /admin/dashboard (x) /dashboard (o)
+
 - 코드를 **논리적으로 그룹화**하기 위해서 사용
 - 예를 들어, 다음과 같이 관리자용과 사용자용 페이지를 나눌 수 있다.
-    
 `app/ 
-├── (admin)/ │   └── dashboard/ ├── (user)/ │   └── dashboard/`
-
-이 경우, URL은 둘 다 다음처럼 됩니다:
+	├── (admin)/ │   
+			└── dashboard/ 
+	├── (user)/ │   
+			└── dashboard/`
 
 - `/dashboard` → 각각 (admin)과 (user) 중에서 layout 등으로 구분 가능
-    
+- **middleware**에서 개발자가 직접 판단하여 적절하게 리다이렉트 시켜주어야 한다.
 
-> 즉, 폴더 구조는 나누지만 **URL 경로에는 영향을 안 주므로 클린한 URL을 유지**할 수 있어요.
