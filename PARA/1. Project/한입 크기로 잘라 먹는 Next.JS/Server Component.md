@@ -11,5 +11,7 @@ JS Build Load
 
 
 SSG RSC Payload + JS Build Load
+
 SSR RSC Payload
+- Dynamic Param
 
