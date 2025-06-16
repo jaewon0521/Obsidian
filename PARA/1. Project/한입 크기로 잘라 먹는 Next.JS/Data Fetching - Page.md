@@ -65,7 +65,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 ```
-##### falback
+##### fallback
  - fallback 상태는 useRouter의 isFallback으로 확인 할 수 있다. (로딩 바)
 
 | fallback 값   | 의미                                                                                                                            |

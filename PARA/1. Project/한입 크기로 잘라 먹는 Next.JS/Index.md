@@ -7,6 +7,6 @@
 ---
 ## 내용 요약
 1. [[Page Routing - Page]]
-2. [[Data Fetching]]
+2. [[Data Fetching - Page]]
 ## 한 줄 감상평
 

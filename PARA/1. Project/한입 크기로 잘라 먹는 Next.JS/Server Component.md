@@ -15,3 +15,7 @@ SSG RSC Payload + JS Build Load
 SSR RSC Payload
 - Dynamic Param
 
+env 환경 변수 설정
+
+접두사로 NEXT_PUBLIC 을 상요하면 Client, Server 둘다 접근 할 수 있다
+접두사를 생략하게 된다면 Server에서만 접근 할 수 있다.
