@@ -74,3 +74,4 @@ Dynamic Page가 아니면 모두 Static Page가 된다. (Default)
 > `force-static`을 사용할 때, 동적 함수를 사용하는 데이터를 불러오는 경우에는 검색 기능이 동작하지 않을 수 있다.
 > searchParams, params
 
+1. 
