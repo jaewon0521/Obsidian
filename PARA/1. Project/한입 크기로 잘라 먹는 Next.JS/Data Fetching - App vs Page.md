@@ -87,18 +87,3 @@ export async function getStaticProps() {
 | 번들 크기      | 클라이언트로 많이 전달됨              | 서버에서 처리, 번들 크기 감소       |
 
 ---
-
-## 4. 실전에서 혼동하기 쉬운 점 Q&A
-
-- **Q. App Router에서 getServerSideProps 쓸 수 있나요?**
-  - A. 사용할 수 없습니다. fetch 옵션으로 대체합니다.
-- **Q. 서버 컴포넌트에서만 fetch가 서버에서 실행되나요?**
-  - A. 네, 클라이언트 컴포넌트에서는 fetch가 브라우저에서 실행됩니다.
-- **Q. ISR/SSG/SSR은 어떻게 구분하나요?**
-  - A. fetch의 옵션(cache, revalidate 등)으로 구분합니다.
-
----
-
-## 5. 참고 링크
-
-- [Next.js 공식 데이터 페칭 문서](https://nextjs.org/docs/app/building-your-application/data-fetching)
