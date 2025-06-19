@@ -7,7 +7,7 @@
 - SSG방식으로 생성된 정적 페이지를 일정 시간을 주기로 다시 생성한다. (ISR)
 - Revalidate요청으로 SSG방식으로 페이지를 생성한다. (On-Demand ISR)
 
-#### SSR
+#### 1. SSR
 ``` typescript
 export const getServerSideProps = async() => {
 	const data = await getFetch();
@@ -26,7 +26,7 @@ export default function Page(
 }
 ```
 
-#### SSG
+#### 2. SSG
 ```typescript
 
 export const getStaticProps = async() => {
@@ -47,7 +47,7 @@ export default function Page(
 
 ```
 
-#### SSG 동적 경로
+#### 3. SSG 동적 경로
 /[id] 처럼 경로에 변수가 들어가는 경우에 해당합니다.
 
 ``` typescript 
@@ -75,7 +75,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 | `'blocking'` | 지정하지 않은 경로도 요청 시 서버에서 생성하고 완성된 HTML을 바로 응답                                                                                    |
 |              | 첫 번째는 SSR로 HTML 파일은 Next Server에 생성 후 두 번째 요청 부터 SSG 방식으로 동작                                                                  |
 
-#### ISR
+#### 4. ISR
 ``` typescript 
 export const getStaticProps = async() => {
 	const data = await getFetch();
@@ -96,7 +96,7 @@ export default function Page(
 
 ```
 
-#### On-Demand ISR
+#### 5. On-Demand ISR
 ```typescript
 // src/pages/api/revalidate.ts
 import { NextApiRequest, NextApiResponse } from "next";
