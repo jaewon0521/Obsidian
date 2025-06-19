@@ -1,5 +1,3 @@
-# Next.js 사전 렌더링과 번들 사이즈: App Router vs Page Router
-
 #### 1. 사전 렌더링과 데이터 페칭 방식
 
 ##### App Router (app 디렉토리)
