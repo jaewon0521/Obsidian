@@ -13,5 +13,42 @@ Next에서는 정적 페이지와 동적 페이지로 어떤 기능을 사용하
 
 #### 기준
 ##### Dynamic Page 기준
-1. 캐시되지 않는 Data Fetching 을 사용할 겨
+페이지가 접속 요청을 받을 때 마다 매번 변화가 생기거나, 데이터가 달라질 경우
+
+1. 캐시되지 않는 Data Fetching 을 사용할 경우
+``` typescript
+await fetch('/url', { cache : 'no-store' })
+```
+2. 동적 함수 (쿠키, 헤더, 쿼리스트링)을 사용하는 컴포넌트가 있을 경우
+``` tsx
+
+// cookie, headers
+import { cookies } from 'next/headers';
+
+async function Component() {
+	const cookieStore = cookies();
+	const theme = cookieStore.get('theme');
+	
+	return <div>...</div>
+}
+
+// queryString
+async function Page ({ searchParams } : {searchParams: { q: string }}) {
+	const q = searchParams.q;
+
+	return <div>...</div>
+}
+```
+
+##### Static Page 기준
+Dynamic Page가 아니면 모두 Static Page가 된다. (Default)
+
+
+#### 비교
+| 동적 함수 | 데이터 캐시 |    페이지 분류    |
+| :---: | :----: | :----------: |
+|   O   |   X    | Dynamic Page |
+|   O   |   O    | Dynamic Page |
+|   X   |   X    | Dynamic Page |
+|   X   |   O    | Static Page  |
 
