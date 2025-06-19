@@ -54,14 +54,23 @@ Dynamic Page가 아니면 모두 Static Page가 된다. (Default)
 #### 라우트 세그먼트 옵션
 라우트 세그먼트 옵션은 특정 페이지의 동작을 강제적으로 설정할 수 있는 옵션이다. 이를 통해 캐싱 설정, Revalidate 타임, 서버 지역 등을 지정할 수 있다.
 
+##### dynamicParams 옵션
 - `dynamicParams: false`: `generateStaticParams`에서 반환된 경로 외의 URL 요청은 모두 404 페이지로 리다이렉트.
-    
 - `dynamicParams: true` (기본값): `generateStaticParams` 외의 경로도 실시간으로 생성.
 ``` typescript
- export dynamicParmas = false;
+ export const dynamicParmas = false;
 ```
 ##### dynamic 옵션 (페이지 유형 강제 설정)
 - `auto`: 기본값. 페이지를 구성하는 컴포넌트의 동작에 따라 Static 또는 Dynamic 페이지로 자동 설정.
 - `force-dynamic`: 페이지를 강제로 Dynamic 페이지로 설정.
 - `force-static`: 페이지를 강제로 Static 페이지로 설정.
 - `error`: 페이지를 강제로 Static 페이지로 설정하되, 동적 함수나 캐싱되지 않은 데이터 페칭이 있다면 빌드 오류 발생
+
+``` typescript
+ export const dynamic = 'force-dynamic';
+```
+
+> [!error] 
+> `force-static`을 사용할 때, 동적 함수를 사용하는 데이터를 불러오는 경우에는 검색 기능이 동작하지 않을 수 있다.
+> searchParams, params
+
