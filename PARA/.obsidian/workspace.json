@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Fetching - Page"
+              "title": "Full Route Cache"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Data Fetching - Page 의 백링크"
+              "title": "Full Route Cache 의 백링크"
             }
           },
           {
@@ -146,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Data Fetching - Page 의 개요"
+              "title": "Full Route Cache 의 개요"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Data Fetching - Page 의 백링크"
+              "title": "Full Route Cache 의 백링크"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Data Fetching - Page 의 나가는 링크"
+              "title": "Full Route Cache 의 나가는 링크"
             }
           }
         ]
@@ -224,8 +224,8 @@
   },
   "active": "e78e82b51489c022",
   "lastOpenFiles": [
-    "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - App vs Page.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - Page.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Data Fetching - App vs Page.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Server Component.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - Page.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
