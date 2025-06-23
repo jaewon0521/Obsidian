@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streaming"
+              "title": "Error"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Streaming 의 백링크"
+              "title": "Error 의 백링크"
             }
           },
           {
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Streaming 의 개요"
+              "title": "Error 의 개요"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Streaming 의 백링크"
+              "title": "Error 의 백링크"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+                "file": "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Streaming 의 나가는 링크"
+              "title": "Error 의 나가는 링크"
             }
           }
         ]
@@ -226,10 +226,11 @@
   },
   "active": "e78e82b51489c022",
   "lastOpenFiles": [
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
+    "1. Project/한입 크기로 잘라 먹는 Next.JS/Error.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/사전 렌더링과 번들 사이즈.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Index.md",
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Full Route Cache.md",
-    "1. Project/한입 크기로 잘라 먹는 Next.JS/Streaming.md",
     "4. Archive/CallOut.md",
     "3. Resource/Next.Js/RSC - Context API로 대체 할 수 있을지 않았을까?.md",
     "3. Resource/Remix JS Next JS/철학적 차이.md",
@@ -251,7 +252,6 @@
     "1. Project/한입 크기로 잘라 먹는 Next.JS/Page Routing - App.md",
     "4. Archive/ChekBox.md",
     "4. Archive/Archive Strategy.md",
-    "4. Archive/우아한 타입스크립트 with 리액트/JSX에서 TSX로.md",
     "무제 파일.canvas",
     "1. Project/한입 크기로 잘라 먹는 Next.JS",
     "3. Resource/Remix JS Next JS",
