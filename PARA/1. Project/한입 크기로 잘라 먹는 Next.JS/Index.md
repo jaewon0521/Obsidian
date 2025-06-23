@@ -14,5 +14,6 @@
 6. [[Server Component]]
 7. [[사전 렌더링과 번들 사이즈]]
 8. [[Full Route Cache]]
+9. [[Streaming]]
 ## 한 줄 감상평
 
