@@ -1,12 +1,11 @@
 #### 1. Server Component란?
 
 - **Server Component**는 React 18과 Next.js App Router에서 도입된 개념으로, 컴포넌트의 렌더링이 서버에서만 이루어지는 컴포넌트입니다.
-- 브라우저로 JS 번들이 전달되지 않으며, 서버에서만 실행되고 결과(RSC Payload)만 클라이언트로 전달됩니다.
+- 서버에서만 실행되고 결과(RSC Payload)만 클라이언트로 전달됩니다.
 - 데이터베이스, 파일 시스템, 비공개 API 등 서버 리소스에 직접 접근할 수 있습니다.
 
 ---
 #### 2. Server Component의 작동 원리
-
 - 서버에서 React 컴포넌트 트리를 렌더링하여 **RSC Payload**(React Server Component Payload)라는 데이터 구조로 변환합니다.
 - 이 Payload는 HTML이 아니라, React가 클라이언트에서 조립할 수 있도록 만든 "컴포넌트 트리의 설명서"입니다.
 - 클라이언트는 이 Payload를 받아서, 필요한 경우 클라이언트 컴포넌트(JS 번들)와 합쳐서 최종 UI를 완성합니다.
