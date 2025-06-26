@@ -43,3 +43,5 @@
 
 ---
 #### 7. Server Component와 SSR의 관계
+Server Component는 기존 SSR의 단점을 보완하기 위해 React에서 도입한 서버 전용 컴포넌트이다.  
+Next.js는 이 개념을 활용해 SSR, SSG 등 기존 렌더링 전략과 조합하여 **더 가볍고 유연한 페이지 렌더링 구조를 제공**한다.
