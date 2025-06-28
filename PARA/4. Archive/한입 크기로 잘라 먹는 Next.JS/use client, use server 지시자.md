@@ -31,6 +31,4 @@ export default function PageForm() {
 }
 
 ```
-##### 동작 방식
-유저가 form을 제출하면 Next.js는 해당 RFC 주소로 요청을 보내고, 서버에서 submitForm을 실행 한다.
 
