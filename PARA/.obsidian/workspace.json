@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "3. Resource/React/useEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "렌더링"
+              "title": "useEffect"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "렌더링 의 백링크"
+              "title": "useEffect 의 백링크"
             }
           },
           {
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "3. Resource/React/useEffect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "렌더링 의 개요"
+              "title": "useEffect 의 개요"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "3. Resource/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "렌더링 의 백링크"
+              "title": "useEffect 의 백링크"
             }
           },
           {
@@ -199,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/모던 리액트 Deep 다이브/렌더링.md",
+                "file": "3. Resource/React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "렌더링 의 나가는 링크"
+              "title": "useEffect 의 나가는 링크"
             }
           }
         ]
