@@ -23,7 +23,3 @@
 - **frameworks.md**: 인기 있는 CSS 프레임워크 소개, 장단점.
 
 [[Readme]]
-
-## List
-- [[Next JS 공식 문서 연습| Next Js Example]]
-- [[4. Archive/우아한 타입스크립트 with 리액트/Index| 우아한 타입스크립트 with 리액트]]
