@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "사전 렌더링과 번들 사이즈"
             }
+          },
+          {
+            "id": "9197307bab5c8cc8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -215,6 +228,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -224,7 +238,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e78e82b51489c022",
+  "active": "9197307bab5c8cc8",
   "lastOpenFiles": [
     "4. Archive/한입 크기로 잘라 먹는 Next.JS/Data Fetching - App vs Page.md",
     "4. Archive/한입 크기로 잘라 먹는 Next.JS/Data Fetching - App.md",
